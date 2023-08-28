@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-#include <unstdio.h>
 
 /**
  * more_numbers - print more numbers
